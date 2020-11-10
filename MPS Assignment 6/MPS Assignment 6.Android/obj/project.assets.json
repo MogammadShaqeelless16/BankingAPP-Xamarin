@@ -1936,11 +1936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.Android\\MPS Assignment 6.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6.Android\\MPS Assignment 6.Android.csproj",
       "projectName": "MPS Assignment 6.Android",
-      "projectPath": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.Android\\MPS Assignment 6.Android.csproj",
+      "projectPath": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6.Android\\MPS Assignment 6.Android.csproj",
       "packagesPath": "C:\\Users\\Shaqeel less\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.Android\\obj\\",
+      "outputPath": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj": {
-              "projectPath": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj"
+            "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj": {
+              "projectPath": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj"
             }
           }
         }

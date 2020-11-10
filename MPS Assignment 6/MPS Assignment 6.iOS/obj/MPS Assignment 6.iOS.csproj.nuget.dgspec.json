@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.iOS\\MPS Assignment 6.iOS.csproj": {}
+    "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6.iOS\\MPS Assignment 6.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.iOS\\MPS Assignment 6.iOS.csproj": {
+    "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6.iOS\\MPS Assignment 6.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.iOS\\MPS Assignment 6.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6.iOS\\MPS Assignment 6.iOS.csproj",
         "projectName": "MPS Assignment 6.iOS",
-        "projectPath": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.iOS\\MPS Assignment 6.iOS.csproj",
+        "projectPath": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6.iOS\\MPS Assignment 6.iOS.csproj",
         "packagesPath": "C:\\Users\\Shaqeel less\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj": {
-                "projectPath": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj"
+              "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj": {
+                "projectPath": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj": {
+    "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj",
+        "projectUniqueName": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj",
         "projectName": "MPS Assignment 6",
-        "projectPath": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj",
+        "projectPath": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6.csproj",
         "packagesPath": "C:\\Users\\Shaqeel less\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shaqeel less\\source\\repos\\MPS Assignment 6\\MPS Assignment 6\\MPS Assignment 6\\obj\\",
+        "outputPath": "C:\\Users\\Shaqeel less\\Source\\Repos\\BankingAPP-Xamarin\\MPS Assignment 6\\MPS Assignment 6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
