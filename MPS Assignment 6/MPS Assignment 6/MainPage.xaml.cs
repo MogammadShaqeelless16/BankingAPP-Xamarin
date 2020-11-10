@@ -43,7 +43,6 @@ namespace MPS_Assignment_6
         private void Button_Clicked_2(object sender, EventArgs e)
         {
             string history = account.GetTransactionHistory();
-            TransactionHistory.Text = history;
             DisplayAlert("Transaction History", history, "OK");
         }
 
